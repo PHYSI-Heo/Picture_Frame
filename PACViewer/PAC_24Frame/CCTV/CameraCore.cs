@@ -25,7 +25,7 @@ namespace PAC_24Frame.CCTV
         private CHCNetSDK.REALDATACALLBACK RealData = null;
         private CHCNetSDK.MSGCallBack_V31 m_falarmData_V31 = null;
         
-        private const string CCTV_IP = "192.168.1.27";
+        private const string CCTV_IP = "192.168.1.51";
         private const int CCTV_PORT = 8000;
         private const string ACCESS_ID = "admin";
         private const string ACCESS_PWD = "adminIOSPZA";
